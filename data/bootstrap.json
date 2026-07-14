@@ -414,8 +414,8 @@
       "profession": "Fotógrafa",
       "city": "San Antonio",
       "region": "Valparaíso",
-      "avatar": "final/francisca-lombardo-profile.jpg",
-      "photo": "final/francisca-lombardo-profile.jpg",
+      "avatar": "final/francisca-lombardo-2.jpg",
+      "photo": "final/francisca-lombardo-2.jpg",
       "rating": "4.9",
       "skills": [
         "Fotografía",
@@ -428,7 +428,6 @@
         "final/francisca-lombardo-1.jpg",
         "final/francisca-lombardo-2.jpg",
         "final/francisca-lombardo-3.jpg",
-        "final/francisca-lombardo-4.jpg",
         "final/francisca-lombardo-5.jpg"
       ],
       "portfolioLabels": [],
