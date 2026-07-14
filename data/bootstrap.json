@@ -1,0 +1,763 @@
+{
+  "brand": {
+    "name": "RED ATÍPICA",
+    "tagline": "Conectamos talento creativo con oportunidades reales.",
+    "pitch": "RED ATÍPICA es una comunidad donde talentos y proyectos se encuentran para colaborar y crear juntos.",
+    "logo": "final/logo.png"
+  },
+  "regions": [
+    "Todas las regiones",
+    "Arica y Parinacota",
+    "Tarapacá",
+    "Antofagasta",
+    "Atacama",
+    "Coquimbo",
+    "Valparaíso",
+    "Metropolitana",
+    "O'Higgins",
+    "Maule",
+    "Ñuble",
+    "Biobío",
+    "La Araucanía",
+    "Los Ríos",
+    "Los Lagos",
+    "Aysén",
+    "Magallanes"
+  ],
+  "projects": [
+    {
+      "id": "editorial-moda",
+      "type": "COLABORACIÓN",
+      "title": "Editorial de Moda",
+      "brand": "Treino",
+      "location": "Iquique / Santiago",
+      "city": "Iquique",
+      "region": "Tarapacá",
+      "date": "18/10/2026",
+      "duration": "1 jornada de producción",
+      "budget": "$25.000 a $30.000 + beneficios",
+      "image": "final/project-treino.png",
+      "hero": "final/project-treino.png",
+      "summary": "Buscamos equipo para desarrollar un editorial inspirado en las tendencias de la temporada.",
+      "description": "Buscamos conformar un equipo creativo para desarrollar un editorial inspirado en las tendencias de la temporada. El proyecto contempla una producción fotográfica destinada a publicación editorial, redes sociales y material promocional.",
+      "roles": [
+        "Modelo",
+        "Fotógrafo(a)",
+        "Maquillador(a)"
+      ],
+      "requirements": [
+        "Modelo hombre o mujer, 18 a 30 años",
+        "Buena expresión frente a cámara",
+        "Experiencia en editoriales deseable",
+        "Fotógrafo(a) con portafolio actualizado",
+        "Maquillador(a) con creatividad y manejo de distintas técnicas"
+      ],
+      "benefits": [
+        "Colaboración pagada",
+        "Gratificación entre $25.000 y $30.000 por participante",
+        "Alimentación durante la jornada",
+        "Pago de locomoción",
+        "Material fotográfico profesional para portafolio"
+      ],
+      "compatibility": 94
+    },
+    {
+      "id": "stylist-maquillador",
+      "type": "PROYECTO",
+      "title": "Búsqueda de Stylist y Maquillador(a)",
+      "brand": "Nicoletta Valentina",
+      "location": "La Serena",
+      "city": "La Serena",
+      "region": "Coquimbo",
+      "date": "25/10/2026",
+      "duration": "2 jornadas de producción",
+      "budget": "Stylist $180.000 / Maquillador(a) $150.000",
+      "image": "final/project-nicoletta.png",
+      "hero": "final/project-nicoletta.png",
+      "summary": "Marca nacional de vestuario busca stylist y maquillador(a) para contenido de nueva colección Primavera-Verano.",
+      "description": "Marca nacional de vestuario busca un(a) stylist y un(a) maquillador(a) para participar en la producción de contenido de su nueva colección Primavera-Verano. El material será utilizado para redes sociales, página web y campañas publicitarias.",
+      "roles": [
+        "Stylist",
+        "Maquillador(a)"
+      ],
+      "requirements": [
+        "Stylist con experiencia en estilismo de moda",
+        "Conocimiento de tendencias y composición de looks",
+        "Creatividad y buen manejo de vestuario y accesorios",
+        "Maquillador(a) con experiencia en maquillaje para fotografía y moda",
+        "Portafolio actualizado"
+      ],
+      "benefits": [
+        "Proyecto remunerado",
+        "Uso de material para campaña web y redes",
+        "Trabajo con marca nacional de vestuario"
+      ],
+      "compatibility": 88
+    },
+    {
+      "id": "modelo-actriz-comercial",
+      "type": "CASTING",
+      "title": "Modelo / Actriz para Comercial",
+      "brand": "Marca de Bebidas",
+      "location": "Santiago / Valparaíso",
+      "city": "Santiago y Valparaíso",
+      "region": "Metropolitana",
+      "date": "30 y 31/10/2026",
+      "duration": "2 jornadas de grabación",
+      "budget": "$550.000",
+      "image": "final/project-beverage.png",
+      "hero": "final/project-beverage.png",
+      "summary": "Marca de bebidas busca una modelo o actriz para protagonizar su próxima campaña publicitaria audiovisual.",
+      "description": "Reconocida marca de bebidas busca una modelo o actriz para protagonizar su próxima campaña publicitaria. El comercial será difundido en televisión, plataformas digitales y redes sociales.",
+      "roles": [
+        "Modelo",
+        "Actriz"
+      ],
+      "requirements": [
+        "Mujer",
+        "Estatura entre 1,60 m y 1,65 m",
+        "Cabello pelirrojo/colorina",
+        "Experiencia en comerciales deseable",
+        "Buena expresión, naturalidad y actitud frente a cámara",
+        "Disponibilidad para asistir a dos días de grabación"
+      ],
+      "benefits": [
+        "Pago de $550.000",
+        "Difusión en televisión, plataformas digitales y redes sociales",
+        "Experiencia audiovisual para portafolio"
+      ],
+      "compatibility": 82
+    },
+    {
+      "id": "doslobos-futurista",
+      "type": "CASTING",
+      "title": "DOSLOBOS – Campaña Futurista",
+      "brand": "DOSLOBOS",
+      "location": "Valparaíso",
+      "city": "Valparaíso",
+      "region": "Valparaíso",
+      "date": "12/10/2025",
+      "duration": "1 jornada de producción",
+      "budget": "Modelo $120.000 / Maquillador(a) $90.000",
+      "image": "final/project-doslobos.png",
+      "hero": "final/project-doslobos.png",
+      "summary": "Marca de vestuario independiente busca equipo creativo para campaña visual futurista, editorial y cinematográfica.",
+      "description": "Campaña visual con estética futurista, editorial y cinematográfica, enfocada en nueva colección otoño/invierno. La producción incluirá contenido para redes sociales, fotografías editoriales y video promocional.",
+      "roles": [
+        "Modelo hombre",
+        "Maquillador(a)"
+      ],
+      "requirements": [
+        "Modelo hombre moreno",
+        "Estatura aproximada 1,80 m",
+        "Estilo editorial / urbano",
+        "Experiencia básica o intermedia",
+        "Maquillador(a) con experiencia editorial o artística"
+      ],
+      "benefits": [
+        "Pago por jornada",
+        "Material de portafolio",
+        "Participación en campaña de marca independiente"
+      ],
+      "compatibility": 91
+    },
+    {
+      "id": "nomade-invierno",
+      "type": "CASTING",
+      "title": "Editorial Nómade Invierno",
+      "brand": "Nómade Studio",
+      "location": "Santiago",
+      "city": "Santiago",
+      "region": "Metropolitana",
+      "date": "20/11/2026",
+      "duration": "1 jornada de producción",
+      "budget": "$180.000 por jornada",
+      "image": "photo-editorial.svg",
+      "hero": "photo-editorial.svg",
+      "summary": "Casting editorial para campaña de invierno con estética urbana y contemporánea.",
+      "description": "Nómade Studio busca modelos y profesionales creativos para una producción editorial de invierno destinada a redes sociales, lookbook y material de campaña.",
+      "roles": [
+        "Modelo",
+        "Fotógrafo(a)",
+        "Maquillador(a)"
+      ],
+      "requirements": [
+        "Portafolio actualizado",
+        "Disponibilidad durante la jornada",
+        "Experiencia editorial deseable"
+      ],
+      "benefits": [
+        "Material profesional para portafolio",
+        "Alimentación durante la jornada",
+        "Proyecto remunerado"
+      ],
+      "compatibility": 91
+    },
+    {
+      "id": "beauty-redes",
+      "type": "PROYECTO",
+      "title": "Campaña Beauty para Redes",
+      "brand": "Aura Makeup",
+      "location": "Valdivia",
+      "city": "Valdivia",
+      "region": "Los Ríos",
+      "date": "24/11/2026",
+      "duration": "2 jornadas",
+      "budget": "$160.000 por jornada",
+      "image": "photo-beauty-campaign.svg",
+      "hero": "photo-beauty-campaign.svg",
+      "summary": "Producción beauty para contenido digital y lanzamiento de temporada.",
+      "description": "Aura Makeup busca talento para una campaña beauty enfocada en contenido vertical, fotografía de producto y piezas para plataformas digitales.",
+      "roles": [
+        "Modelo",
+        "Maquillador(a)",
+        "Fotógrafo(a)"
+      ],
+      "requirements": [
+        "Experiencia beauty deseable",
+        "Disponibilidad para dos jornadas",
+        "Autorización de uso de imagen"
+      ],
+      "benefits": [
+        "Campaña remunerada",
+        "Contenido profesional",
+        "Créditos de producción"
+      ],
+      "compatibility": 88
+    },
+    {
+      "id": "prisma-lookbook",
+      "type": "COLABORACIÓN",
+      "title": "Lookbook Prisma Clothing",
+      "brand": "Prisma Clothing",
+      "location": "Concepción",
+      "city": "Concepción",
+      "region": "Biobío",
+      "date": "28/11/2026",
+      "duration": "1 jornada",
+      "budget": "$140.000 + material",
+      "image": "photo-lookbook.svg",
+      "hero": "photo-lookbook.svg",
+      "summary": "Lookbook para marca independiente con estética callejera y dirección visual minimalista.",
+      "description": "Prisma Clothing prepara su nuevo lookbook y busca un equipo creativo para fotografía, styling y modelaje en locaciones urbanas.",
+      "roles": [
+        "Modelo",
+        "Stylist",
+        "Fotógrafo(a)"
+      ],
+      "requirements": [
+        "Afinidad con moda urbana",
+        "Portafolio actualizado",
+        "Disponibilidad de jornada completa"
+      ],
+      "benefits": [
+        "Proyecto pagado",
+        "Material para portafolio",
+        "Difusión en canales de la marca"
+      ],
+      "compatibility": 84
+    },
+    {
+      "id": "sur-visual",
+      "type": "PROYECTO",
+      "title": "Cortometraje Sur Visual",
+      "brand": "Sur Visual",
+      "location": "Temuco",
+      "city": "Temuco",
+      "region": "La Araucanía",
+      "date": "05/12/2026",
+      "duration": "3 jornadas",
+      "budget": "$300.000 total",
+      "image": "photo-film-set.svg",
+      "hero": "photo-film-set.svg",
+      "summary": "Cortometraje independiente con enfoque experimental y búsqueda de talentos emergentes.",
+      "description": "Sur Visual convoca actores, dirección de arte y apoyo audiovisual para un cortometraje independiente con rodaje en Temuco.",
+      "roles": [
+        "Actor / Actriz",
+        "Director(a) de arte",
+        "Asistente audiovisual"
+      ],
+      "requirements": [
+        "Disponibilidad para tres jornadas",
+        "Compromiso con ensayos previos",
+        "Experiencia deseable, no excluyente"
+      ],
+      "benefits": [
+        "Proyecto remunerado",
+        "Créditos en la obra",
+        "Material audiovisual profesional"
+      ],
+      "compatibility": 79
+    }
+  ],
+  "talents": [
+    {
+      "id": "muriel",
+      "name": "Muriel Galindo",
+      "profession": "Modelo",
+      "city": "Valparaíso",
+      "region": "Valparaíso",
+      "avatar": "final/muriel-profile.jpg",
+      "photo": "final/muriel-profile.jpg",
+      "rating": "4.8",
+      "skills": [
+        "Editorial",
+        "Comercial",
+        "Moda"
+      ],
+      "bio": "Modelo comercial y editorial con enfoque creativo y versátil frente a cámara. Disponible para campañas, producciones visuales y proyectos artísticos.",
+      "about": "Modelo comercial y editorial con enfoque creativo y versátil frente a cámara. Disponible para campañas, producciones visuales y proyectos artísticos.",
+      "portfolio": [
+        "final/muriel-1.jpg",
+        "final/muriel-2.jpg",
+        "final/muriel-3.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "benjamin",
+      "name": "Benjamin Chamorro",
+      "profession": "Modelo",
+      "city": "La Serena",
+      "region": "Coquimbo",
+      "avatar": "final/benjamin-profile.jpg",
+      "photo": "final/benjamin-profile.jpg",
+      "rating": "4.7",
+      "skills": [
+        "Moda",
+        "Editorial",
+        "Estudio"
+      ],
+      "bio": "Modelo con experiencia en retrato editorial, sesiones de estudio y propuestas de moda contemporánea.",
+      "about": "Modelo con experiencia en retrato editorial, sesiones de estudio y propuestas de moda contemporánea.",
+      "portfolio": [
+        "final/benjamin-1.jpg",
+        "final/benjamin-2.jpg",
+        "final/benjamin-3.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "francisca-arce",
+      "name": "Francisca Arce",
+      "profession": "Actriz",
+      "city": "Santiago",
+      "region": "Metropolitana",
+      "avatar": "final/francisca-arce-profile.jpg",
+      "photo": "final/francisca-arce-profile.jpg",
+      "rating": "4.9",
+      "skills": [
+        "Actuación",
+        "Audiovisual",
+        "Comercial"
+      ],
+      "bio": "Actriz disponible para comerciales, contenido audiovisual, proyectos independientes y campañas digitales.",
+      "about": "Actriz disponible para comerciales, contenido audiovisual, proyectos independientes y campañas digitales.",
+      "portfolio": [
+        "final/francisca-arce-1.jpg",
+        "final/francisca-arce-2.jpg",
+        "final/francisca-arce-3.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "javier",
+      "name": "Javier Serrano",
+      "profession": "Diseñador",
+      "city": "Viña del Mar",
+      "region": "Valparaíso",
+      "avatar": "final/javier-profile.jpg",
+      "photo": "final/javier-profile.jpg",
+      "rating": "4.6",
+      "skills": [
+        "Diseño",
+        "Vestuario",
+        "Dirección de arte"
+      ],
+      "bio": "Diseñador creativo enfocado en vestuario, styling y propuestas visuales contemporáneas.",
+      "about": "Diseñador creativo enfocado en vestuario, styling y propuestas visuales contemporáneas.",
+      "portfolio": [
+        "final/javier-1.jpg",
+        "final/javier-2.jpg",
+        "final/javier-3.jpg",
+        "final/javier-4.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "francisca-lombardo",
+      "name": "Francisca Lombardo",
+      "profession": "Fotógrafa",
+      "city": "San Antonio",
+      "region": "Valparaíso",
+      "avatar": "final/francisca-lombardo-profile.jpg",
+      "photo": "final/francisca-lombardo-profile.jpg",
+      "rating": "4.9",
+      "skills": [
+        "Fotografía",
+        "Editorial",
+        "Moda"
+      ],
+      "bio": "Fotógrafa orientada a producciones editoriales, campañas de moda, retratos y contenido creativo.",
+      "about": "Fotógrafa orientada a producciones editoriales, campañas de moda, retratos y contenido creativo.",
+      "portfolio": [
+        "final/francisca-lombardo-1.jpg",
+        "final/francisca-lombardo-2.jpg",
+        "final/francisca-lombardo-3.jpg",
+        "final/francisca-lombardo-4.jpg",
+        "final/francisca-lombardo-5.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "francisca-ayleen",
+      "name": "Francisca Ayleen",
+      "profession": "Stylist",
+      "city": "Iquique",
+      "region": "Tarapacá",
+      "avatar": "final/francisca-ayleen-profile.png",
+      "photo": "final/francisca-ayleen-profile.png",
+      "rating": "4.7",
+      "skills": [
+        "Styling",
+        "Moda",
+        "Producción"
+      ],
+      "bio": "Stylist enfocada en composición de looks, dirección de vestuario y apoyo creativo para campañas.",
+      "about": "Stylist enfocada en composición de looks, dirección de vestuario y apoyo creativo para campañas.",
+      "portfolio": [
+        "final/francisca-ayleen-1.jpg",
+        "final/francisca-ayleen-2.jpg",
+        "final/francisca-ayleen-3.jpg",
+        "final/francisca-ayleen-4.jpg",
+        "final/francisca-ayleen-book.png"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "krishna",
+      "name": "Krishna Perez",
+      "profession": "Maquilladora",
+      "city": "Valdivia",
+      "region": "Los Ríos",
+      "avatar": "final/krishna-profile.jpg",
+      "photo": "final/krishna-profile.jpg",
+      "rating": "4.8",
+      "skills": [
+        "Beauty",
+        "Editorial",
+        "Color"
+      ],
+      "bio": "Maquilladora creativa especializada en propuestas editoriales, beauty y caracterización visual.",
+      "about": "Maquilladora creativa especializada en propuestas editoriales, beauty y caracterización visual.",
+      "portfolio": [
+        "final/krishna-1.jpg",
+        "final/krishna-2.jpg",
+        "final/krishna-3.jpg",
+        "final/krishna-book.png"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "angeline",
+      "name": "Angeline Olivares",
+      "profession": "Modelo",
+      "city": "Antofagasta",
+      "region": "Antofagasta",
+      "avatar": "final/angeline-profile.jpg",
+      "photo": "final/angeline-profile.jpg",
+      "rating": "4.8",
+      "skills": [
+        "Moda",
+        "Editorial",
+        "Beauty"
+      ],
+      "bio": "Modelo con identidad visual marcada, experiencia en proyectos editoriales y campañas creativas.",
+      "about": "Modelo con identidad visual marcada, experiencia en proyectos editoriales y campañas creativas.",
+      "portfolio": [
+        "final/angeline-1.jpg",
+        "final/angeline-2.jpg",
+        "final/angeline-3.jpg",
+        "final/angeline-4.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    },
+    {
+      "id": "valentina",
+      "name": "Valentina Serrano",
+      "profession": "Diseñadora de Vestuario",
+      "city": "Rancagua",
+      "region": "O'Higgins",
+      "avatar": "final/valentina-profile.jpg",
+      "photo": "final/valentina-profile.jpg",
+      "rating": "4.7",
+      "skills": [
+        "Vestuario",
+        "Diseño",
+        "Moda"
+      ],
+      "bio": "Diseñadora de vestuario enfocada en piezas conceptuales, styling y producción visual.",
+      "about": "Diseñadora de vestuario enfocada en piezas conceptuales, styling y producción visual.",
+      "portfolio": [
+        "final/valentina-1.jpg",
+        "final/valentina-2.jpg",
+        "final/valentina-3.jpg",
+        "final/valentina-4.jpg"
+      ],
+      "portfolioLabels": [],
+      "details": {
+        "experiencia": "2 años",
+        "proyectos": "8",
+        "disponibilidad": "Inmediata"
+      },
+      "reviews": []
+    }
+  ],
+  "services": [
+    {
+      "id": "direccion-creativa",
+      "name": "Dirección Creativa",
+      "price": "Desde $70.000",
+      "image": "final/service-directors.png",
+      "summary": "Desarrollo del concepto creativo y coordinación de todos los elementos para lograr una identidad visual coherente.",
+      "deliverables": [
+        "Concepto creativo",
+        "Moodboard y referencias",
+        "Dirección estética",
+        "Coordinación del equipo"
+      ]
+    },
+    {
+      "id": "fotografia-marcas",
+      "name": "Fotografía para Marcas",
+      "price": "Desde $80.000",
+      "image": "final/service-photographer.png",
+      "summary": "Sesiones fotográficas profesionales para destacar productos, servicios y fortalecer la imagen de tu marca.",
+      "deliverables": [
+        "Planificación de sesión",
+        "Fotografías seleccionadas",
+        "Edición profesional",
+        "Entrega digital"
+      ]
+    },
+    {
+      "id": "produccion-visual",
+      "name": "Producción Visual",
+      "price": "Desde $150.000",
+      "image": "final/service-production.png",
+      "summary": "Organización y ejecución de producciones creativas, incluyendo planificación, equipo y desarrollo del proyecto.",
+      "deliverables": [
+        "Producción general",
+        "Coordinación de profesionales",
+        "Plan de trabajo",
+        "Ejecución y seguimiento"
+      ]
+    },
+    {
+      "id": "portafolios",
+      "name": "Asesoría y Creación de Portafolios",
+      "price": "Desde $45.000",
+      "image": "final/service-portfolio.png",
+      "summary": "Diseño y organización de un portafolio profesional que resalte tu trabajo y potencie tu perfil.",
+      "deliverables": [
+        "Selección de trabajos",
+        "Orden visual",
+        "Diseño del book",
+        "Revisión profesional"
+      ]
+    },
+    {
+      "id": "asesorias-marcas",
+      "name": "Asesorías para Marcas",
+      "price": "Desde $60.000",
+      "image": "final/service-brand.png",
+      "summary": "Orientación estratégica para fortalecer la identidad, comunicación y presencia visual de tu marca.",
+      "deliverables": [
+        "Diagnóstico de marca",
+        "Estrategia visual",
+        "Recomendaciones de comunicación",
+        "Plan de mejoras"
+      ]
+    },
+    {
+      "id": "paginas-web",
+      "name": "Asesoramiento y Creación de Páginas Web",
+      "price": "Desde $180.000",
+      "image": "final/service-brand.png",
+      "summary": "Diseño y desarrollo de sitios web modernos, funcionales y adaptados a las necesidades de tu marca o emprendimiento.",
+      "deliverables": [
+        "Arquitectura del sitio",
+        "Diseño responsive",
+        "Secciones de servicios o portafolio",
+        "Preparación para publicación"
+      ]
+    }
+  ],
+  "plans": {
+    "professional": [
+      {
+        "name": "Essential",
+        "price": "$0",
+        "tag": "Plan gratuito",
+        "features": [
+          "Perfil profesional",
+          "Portafolio básico",
+          "2 postulaciones activas",
+          "Acceso a proyectos",
+          "Mensajería limitada"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$9.990 / mes",
+        "tag": "Más visibilidad, más oportunidades",
+        "features": [
+          "Perfil destacado",
+          "Postulaciones ilimitadas",
+          "Portafolio ilimitado",
+          "Mayor visibilidad en búsquedas",
+          "Mensajería ilimitada",
+          "Acceso prioritario a oportunidades"
+        ]
+      },
+      {
+        "name": "Estudiante",
+        "price": "$4.990 / mes",
+        "tag": "Para talentos en formación",
+        "features": [
+          "Perfil profesional",
+          "Portafolio estudiantil",
+          "Acceso a proyectos formativos",
+          "Descuento en asesoría de portafolio"
+        ]
+      }
+    ],
+    "brand": [
+      {
+        "name": "Essential",
+        "price": "$0",
+        "tag": "Para empezar",
+        "features": [
+          "Perfil de empresa",
+          "2 publicaciones activas por 48 horas",
+          "Recepción de postulaciones",
+          "Búsqueda de profesionales"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$9.990 / mes",
+        "tag": "Más visibilidad, mejores resultados",
+        "features": [
+          "Hasta 5 publicaciones activas",
+          "Publicaciones destacadas",
+          "Mayor visibilidad dentro de la plataforma",
+          "Mayor duración de publicaciones",
+          "Recepción de postulaciones ilimitadas",
+          "Prioridad en resultados de búsqueda"
+        ]
+      },
+      {
+        "name": "Estudiante",
+        "price": "$4.990 / mes",
+        "tag": "Para proyectos académicos",
+        "features": [
+          "Publicación de proyectos estudiantiles",
+          "Acceso a talentos emergentes",
+          "Difusión limitada"
+        ]
+      }
+    ]
+  },
+  "security": {
+    "situations": [
+      "Incumplimiento de trabajos",
+      "Cancelaciones injustificadas",
+      "Estafas",
+      "Uso de información falsa",
+      "Faltas de respeto",
+      "Incumplimiento de pagos"
+    ],
+    "sanctions": [
+      "Advertencias",
+      "Baja de calificaciones",
+      "Suspensión temporal",
+      "Eliminación permanente de la cuenta"
+    ],
+    "flow": [
+      "Reportes recibidos",
+      "Evaluación del caso",
+      "Aplicación de sanción",
+      "Mejora y confianza"
+    ],
+    "current": "Activo"
+  },
+  "portfolioExamples": [
+    "final/portfolio-example-1.png",
+    "final/portfolio-example-2.png"
+  ],
+  "homeImages": {
+    "heroLeft": "final/hero-fashion.jpg",
+    "heroRight": "final/hero-studio.jpg"
+  },
+  "contact": {
+    "email": "hola@redatipicachile.com",
+    "instagram": "@redatipica"
+  },
+  "notes": {
+    "services": "Los servicios serán realizados por la fundadora de RED ATÍPICA junto a un equipo de profesionales seleccionados según las necesidades de cada proyecto."
+  },
+  "revisionNotes": {
+    "portfolio": "Las galerías muestran únicamente fotografías, sin rótulos superpuestos.",
+    "ratings": "Solo promedio y estrellas; no se muestran comentarios.",
+    "projects": "Se conservaron los cuatro proyectos del PDF y se recuperaron cuatro oportunidades adicionales del prototipo anterior."
+  }
+}

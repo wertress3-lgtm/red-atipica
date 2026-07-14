@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#120820"/><stop offset=".56" stop-color="#7b2cbf"/><stop offset="1" stop-color="#e0aaff"/>
+    </linearGradient>
+    <pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <path d="M0 0H42V42" fill="none" stroke="rgba(255,255,255,.09)" stroke-width="2"/>
+      <circle cx="8" cy="8" r="2" fill="rgba(255,255,255,.15)"/>
+    </pattern>
+  </defs>
+  <rect width="460" height="360" rx="36" fill="url(#g)"/>
+  <rect width="460" height="360" rx="36" fill="url(#p)"/>
+  <circle cx="406" cy="42" r="78" fill="rgba(255,255,255,.13)"/>
+  <circle cx="75" cy="318" r="96" fill="rgba(255,255,255,.12)"/>
+
+    <circle cx="238" cy="132" r="48" fill="rgba(255,255,255,.72)"/>
+    <path d="M170 315c12-80 130-80 142 0" fill="rgba(255,255,255,.64)"/>
+    <path d="M118 340c30-56 64-92 104-116" stroke="rgba(255,255,255,.35)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M300 140c35 22 60 58 78 107" stroke="rgba(255,255,255,.22)" stroke-width="20" stroke-linecap="round"/>
+
+  <text x="34" y="298" font-family="Arial Black, Arial" font-size="36" fill="#f7efff" letter-spacing="1">MODA</text>
+  <text x="36" y="326" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="rgba(255,255,255,.78)">Editorial Nómade</text>
+</svg>

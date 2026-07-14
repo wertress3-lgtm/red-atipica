@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070819"/><stop offset=".56" stop-color="#3949ab"/><stop offset="1" stop-color="#9d4edd"/>
+    </linearGradient>
+    <pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <path d="M0 0H42V42" fill="none" stroke="rgba(255,255,255,.09)" stroke-width="2"/>
+      <circle cx="8" cy="8" r="2" fill="rgba(255,255,255,.15)"/>
+    </pattern>
+  </defs>
+  <rect width="460" height="360" rx="36" fill="url(#g)"/>
+  <rect width="460" height="360" rx="36" fill="url(#p)"/>
+  <circle cx="406" cy="42" r="78" fill="rgba(255,255,255,.13)"/>
+  <circle cx="75" cy="318" r="96" fill="rgba(255,255,255,.12)"/>
+
+    <rect x="70" y="160" width="54" height="170" fill="rgba(255,255,255,.48)"/>
+    <rect x="140" y="110" width="70" height="220" fill="rgba(255,255,255,.68)"/>
+    <rect x="232" y="150" width="54" height="180" fill="rgba(255,255,255,.50)"/>
+    <rect x="304" y="86" width="82" height="244" fill="rgba(255,255,255,.62)"/>
+    <path d="M70 330h328" stroke="rgba(255,255,255,.55)" stroke-width="16"/>
+
+  <text x="34" y="298" font-family="Arial Black, Arial" font-size="36" fill="#edf2ff" letter-spacing="1">CHILE</text>
+  <text x="36" y="326" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="rgba(255,255,255,.78)">Red descentralizada</text>
+</svg>

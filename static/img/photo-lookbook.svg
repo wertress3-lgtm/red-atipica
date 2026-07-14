@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d0d"/><stop offset=".56" stop-color="#5a189a"/><stop offset="1" stop-color="#ffb703"/>
+    </linearGradient>
+    <pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <path d="M0 0H42V42" fill="none" stroke="rgba(255,255,255,.09)" stroke-width="2"/>
+      <circle cx="8" cy="8" r="2" fill="rgba(255,255,255,.15)"/>
+    </pattern>
+  </defs>
+  <rect width="460" height="360" rx="36" fill="url(#g)"/>
+  <rect width="460" height="360" rx="36" fill="url(#p)"/>
+  <circle cx="406" cy="42" r="78" fill="rgba(255,255,255,.13)"/>
+  <circle cx="75" cy="318" r="96" fill="rgba(255,255,255,.12)"/>
+
+    <rect x="76" y="96" width="98" height="220" rx="22" fill="rgba(255,255,255,.62)"/>
+    <rect x="190" y="132" width="96" height="184" rx="22" fill="rgba(255,255,255,.45)"/>
+    <rect x="304" y="72" width="86" height="244" rx="22" fill="rgba(255,255,255,.58)"/>
+    <path d="M92 150h70M206 184h64M320 126h54" stroke="rgba(13,13,13,.30)" stroke-width="10" stroke-linecap="round"/>
+
+  <text x="34" y="298" font-family="Arial Black, Arial" font-size="36" fill="#f6f1ff" letter-spacing="1">LOOKBOOK</text>
+  <text x="36" y="326" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="rgba(255,255,255,.78)">Prisma Clothing</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a0d30"/><stop offset=".56" stop-color="#c77dff"/><stop offset="1" stop-color="#ffadc9"/>
+    </linearGradient>
+    <pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <path d="M0 0H42V42" fill="none" stroke="rgba(255,255,255,.09)" stroke-width="2"/>
+      <circle cx="8" cy="8" r="2" fill="rgba(255,255,255,.15)"/>
+    </pattern>
+  </defs>
+  <rect width="460" height="360" rx="36" fill="url(#g)"/>
+  <rect width="460" height="360" rx="36" fill="url(#p)"/>
+  <circle cx="406" cy="42" r="78" fill="rgba(255,255,255,.13)"/>
+  <circle cx="75" cy="318" r="96" fill="rgba(255,255,255,.12)"/>
+
+    <circle cx="196" cy="160" r="52" fill="rgba(255,255,255,.72)"/>
+    <path d="M132 322c20-74 112-86 154-24" fill="rgba(255,255,255,.64)"/>
+    <rect x="300" y="120" width="22" height="190" rx="11" transform="rotate(-26 311 215)" fill="rgba(255,255,255,.72)"/>
+    <circle cx="340" cy="112" r="32" fill="rgba(255,173,201,.88)"/>
+    <path d="M142 222c46 18 90 18 132 0" stroke="rgba(255,173,201,.78)" stroke-width="12" stroke-linecap="round"/>
+
+  <text x="34" y="298" font-family="Arial Black, Arial" font-size="36" fill="#fff0f6" letter-spacing="1">BEAUTY</text>
+  <text x="36" y="326" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="rgba(255,255,255,.78)">Aura Makeup</text>
+</svg>

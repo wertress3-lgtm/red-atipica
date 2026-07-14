@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 360">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070819"/><stop offset=".56" stop-color="#3949ab"/><stop offset="1" stop-color="#9d4edd"/>
+    </linearGradient>
+    <pattern id="p" width="42" height="42" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
+      <path d="M0 0H42V42" fill="none" stroke="rgba(255,255,255,.09)" stroke-width="2"/>
+      <circle cx="8" cy="8" r="2" fill="rgba(255,255,255,.15)"/>
+    </pattern>
+  </defs>
+  <rect width="460" height="360" rx="36" fill="url(#g)"/>
+  <rect width="460" height="360" rx="36" fill="url(#p)"/>
+  <circle cx="406" cy="42" r="78" fill="rgba(255,255,255,.13)"/>
+  <circle cx="75" cy="318" r="96" fill="rgba(255,255,255,.12)"/>
+
+    <rect x="100" y="126" width="220" height="140" rx="20" fill="rgba(255,255,255,.66)"/>
+    <polygon points="320,166 390,128 390,264 320,226" fill="rgba(255,255,255,.42)"/>
+    <circle cx="152" cy="112" r="34" fill="rgba(255,255,255,.50)"/>
+    <circle cx="240" cy="112" r="34" fill="rgba(255,255,255,.50)"/>
+    <path d="M120 302h220" stroke="rgba(255,255,255,.55)" stroke-width="18" stroke-linecap="round"/>
+
+  <text x="34" y="298" font-family="Arial Black, Arial" font-size="36" fill="#edf2ff" letter-spacing="1">FILM</text>
+  <text x="36" y="326" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="rgba(255,255,255,.78)">Sur Visual</text>
+</svg>

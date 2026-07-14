@@ -1,0 +1,12 @@
+{
+  "name": "RED ATÍPICA",
+  "short_name": "RedAtípica",
+  "description": "Plataforma creativa para conectar talentos, marcas y proyectos en Chile.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7ff",
+  "theme_color": "#7B2CBF",
+  "icons": [
+    { "src": "/static/img/icon.svg", "sizes": "192x192", "type": "image/svg+xml" }
+  ]
+}

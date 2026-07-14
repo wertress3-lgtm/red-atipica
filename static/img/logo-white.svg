@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c77dff"/><stop offset="1" stop-color="#e0aaff"/></linearGradient></defs>
+  <text x="8" y="68" font-family="Arial Black, Arial" font-style="italic" font-size="56" fill="url(#g)">Red</text>
+  <text x="129" y="68" font-family="Arial Black, Arial" font-size="50" fill="#fff">ATÍPICA.</text>
+  <rect x="11" y="76" width="92" height="8" rx="4" fill="url(#g)" opacity=".9"/>
+</svg>
